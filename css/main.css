@@ -1,0 +1,41 @@
+.navbar{
+  background: #db995a;
+  color: #d6d4a0;
+}
+
+.jumbotron{
+
+  background-color: #d6d4a0;
+  postion: absolute;
+  z-index: +1;
+
+}
+
+.jumbotron img{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+}
+
+@media screen and (max-width: 720px){
+  .jumbotron{
+    background-color: #fff;
+  }
+
+
+}
+
+
+
+.well{
+
+  background-color: #654236;
+  color: #d6d4a0;
+
+}
+
+.btn{
+  background-color: #da7635;
+
+}
